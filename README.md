@@ -1,0 +1,2 @@
+# scrpay_selenium_zhihu
+利用知乎网站为测试，学习使用scrapy框架嵌入selenium
